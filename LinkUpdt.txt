@@ -1,5 +1,6 @@
 {
-  "link": "https://raw.githubusercontent.com/GleissonAlmeida/STM32-OTA/main/build/Blink411.bin",  
+  "link": "https://github.com/dnx98/STM32-OTA-main/raw/refs/heads/main/build/blink_1.bin",  
   "Mandatory": true,
   "sw" :3.0
   }
+

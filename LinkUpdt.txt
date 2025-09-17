@@ -1,6 +1,7 @@
 {
-  "link": "https://github.com/dnx98/STM32-OTA-main/raw/refs/heads/main/build/blink_1.bin",  
+  "link": "https://raw.githubusercontent.com/dnx98/STM32-OTA-main/main/build/blink_1.bin",  
   "Mandatory": true,
   "sw" :3.0
   }
+
 

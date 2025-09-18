@@ -1,8 +1,9 @@
-{
-  "link": "https://raw.githubusercontent.com/dnx98/STM32-OTA-main/main/build/piskaaa.hex",  
+lf{
+  "link": "https://raw.githubusercontent.com/dnx98/STM32-OTA-main/main/build/piskaaa.elf",  
   "Mandatory": true,
   "sw" :3.0
   }
+
 
 
 

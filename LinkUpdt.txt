@@ -1,8 +1,9 @@
 {
-  "link": "https://raw.githubusercontent.com/dnx98/STM32-OTA-main/main/build/Blink412.bin",  
+  "link": "https://raw.githubusercontent.com/dnx98/STM32-OTA-main/main/build/piskaaa.ino.bin",  
   "Mandatory": true,
   "sw" :3.0
   }
+
 
 
 

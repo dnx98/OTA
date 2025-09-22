@@ -1,8 +1,9 @@
 {
   "link": "https://raw.githubusercontent.com/dnx98/STM32-OTA-main/main/build/pisca_v3.bin",
-  "Mandatory": true,
+  "Mandatory": false,
   "sw": 1.0
 }
+
 
 
 

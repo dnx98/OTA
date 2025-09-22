@@ -1,5 +1,5 @@
 lf{
   "link": "https://raw.githubusercontent.com/dnx98/STM32-OTA-main/main/build/pisca.bin",  
   "Mandatory": true,
-  "sw" :3.0
+  "sw" :1.0
   }

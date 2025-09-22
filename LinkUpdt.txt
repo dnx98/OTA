@@ -1,8 +1,9 @@
 lf{
-  "link": "https://raw.githubusercontent.com/dnx98/STM32-OTA-main/main/build/piskaaa.bin",  
+  "link": "https://github.com/dnx98/STM32-OTA-main/raw/refs/heads/main/build/piskaaa.bin",  
   "Mandatory": true,
   "sw" :3.0
   }
+
 
 
 

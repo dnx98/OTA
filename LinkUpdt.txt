@@ -1,6 +1,7 @@
 {
-  "link": "https://raw.githubusercontent.com/dnx98/OTA/main/build/pisca_v1.bin",
-  "Mandatory": false,
-  "sw": 1.2
+  "link": "https://raw.githubusercontent.com/dnx98/OTA/main/build/pisca_v3.bin",
+  "Mandatory": true,
+  "sw": 1.3
 }
+
 

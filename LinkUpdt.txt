@@ -1,8 +1,9 @@
 {
-  "link": "https://raw.githubusercontent.com/dnx98/OTA/main/build/DISPLAY_FREERTOS.ino.bin",
-  "Mandatory": true,
-  "sw": 1.5
+  "link": "https://raw.githubusercontent.com/dnx98/OTA/main/build/pisca.bin",
+  "Mandatory": false,
+  "sw": 1.0
 }
+
 
 
 

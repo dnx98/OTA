@@ -1,8 +1,9 @@
 {
-  "link": "https://raw.githubusercontent.com/dnx98/OTA/main/build/DISPLAY_FREERTOS.ino.bin",
+  "link": "https://raw.githubusercontent.com/dnx98/OTA/main/build/blink.bin",
   "Mandatory": false,
   "sw": 1.0
 }
+
 
 
 

@@ -1,8 +1,9 @@
 {
-  "link": "https://raw.githubusercontent.com/dnx98/OTA/main/build/blinkSTM44.bin",
+  "link": "https://raw.githubusercontent.com/dnx98/OTA/main/build/blinkSTM446.bin",
   "Mandatory": false,
   "sw": 1.0
 }
+
 
 
 
